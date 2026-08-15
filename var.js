@@ -29,4 +29,9 @@ if (time > 3) {
 console.log(msg);
 console.log(m);
 
+//const
 
+const mg = "hello tom"
+// mg = "peter"
+
+console.log(mg);
